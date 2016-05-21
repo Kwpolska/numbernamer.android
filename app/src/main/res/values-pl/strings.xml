@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Number Namer</string>
+    <string name="language">Język</string>
+    <string name="number">Liczba</string>
+    <string name="output">Wyjście</string>
+    <string name="random">Losuj</string>
+    <string name="invalidNumber">Nieprawidłowa liczba</string>
+    <string name="about">O programie</string>
+    <string name="aboutVersionFormat">Wersja %s</string>
+</resources>

@@ -1,0 +1,8 @@
+https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html#foreground.type=image&foreground.space.trim=1&foreground.space.pad=0.1&foreColor=009688%2C0&crop=0&backgroundShape=square&backColor=80cbc4%2C100&effects=shadow
+Image source: icontext.svg
+Trim: yes
+Padding: 10%
+Scaling: Center
+Shape: Square
+Background: Teal 200 (#80CBC4)
+Effect: Long Shadoww
