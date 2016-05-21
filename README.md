@@ -3,6 +3,11 @@ Number Namer for Android
 
 A simple app for naming numbers. An interface to [Number Namer](https://github.com/Kwpolska/numbernamer) library.
 
+Download
+--------
+
+Downloads (`.apk`) are available on the [Releases](https://github.com/Kwpolska/numbernamer.android/releases).
+
 Supported languages
 -------------------
 
