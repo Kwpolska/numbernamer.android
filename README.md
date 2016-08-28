@@ -6,7 +6,7 @@ A simple app for naming numbers. An interface to [Number Namer](https://github.c
 Download
 --------
 
-Downloads (`.apk`) are available on the [Releases](https://github.com/Kwpolska/numbernamer.android/releases).
+Downloads (`.apk`) are available on the [Releases](https://github.com/Kwpolska/numbernamer.android/releases) page.
 
 Supported languages
 -------------------
