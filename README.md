@@ -26,7 +26,7 @@ a GUI and CLI interface for desktop computers running Java.
 License (3-clause BSD)
 ----------------------
 
-Copyright © 2016, Chris Warrick.
+Copyright © 2017, Chris Warrick.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
